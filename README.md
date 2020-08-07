@@ -2,7 +2,9 @@
 
 ![GitHub](https://img.shields.io/github/license/adykalra/adykalra?style=flat)
 
-A passionate engineering manager :bar_chart:. I love automating things, building stuff, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 engineering practices, :cloud: Cloud computing, 🚀 DevSecOps, :new: Innovation and Automation :robot:
+A passionate engineering manager :bar_chart:. I love automating things, building stuff, exploring scalability problems and improving efficiency and performance. 
+
+Strong Advocate for 📜 engineering practices, :cloud: Cloud computing, 🚀 DevSecOps, :new: Innovation and Automation :robot:
 
 - ⚡ With experience leading engineering teams, to learn and unlearn the modern product engineering and innovation practices, I conciously am at the forefront of technology trends and new ways of building a fault-tolerant technical organisation. 
 - 🔭 I’m currently leading the engineering teams at BetEasy working closely with cloud platform engineers, solution architects, product owners, delivery leads cultivating a dev-sec-ops mindset to ensure that the engineering strategy aligns with the overall business vision.
