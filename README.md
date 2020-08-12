@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/adykalra/adykalra?style=flat)
 
-A passionate engineering manager :bar_chart:. I love automating things, building stuff, exploring scalability problems and improving efficiency and performance. 
+A passionate engineering manager :bar_chart:. I love automating things, building stuff , learning and unlearning technology trends, exploring scalability problems and improving efficiency and performance. 
 
 Strong Advocate for 📜 engineering practices, :cloud: Cloud computing, 🚀 DevSecOps, 💡 Innovation and Automation :robot:
 
