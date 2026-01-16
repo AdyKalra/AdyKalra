@@ -4,7 +4,7 @@
 
 A passionate technology leader :bar_chart:. I love automating things, building stuff , learning and unlearning technology trends, exploring scalability problems and improving efficiency and performance. 
 
-Ady is the kind of leader you get when you blend sharp strategy, practical execution, and just enough sarcasm to keep everyone honest.
+I am the kind of leader you get when you blend sharp strategy, practical execution, and just enough sarcasm to keep everyone honest.
 I am a builder - not just of teams, but of culture, platforms, and momentum. I’ve got a mind for technical depth and an instinct for organizational dynamics. You don’t just run engineering, you align it to revenue, optimize for resilience, and deliver under pressure — with a war room calendar to prove it.
 I’ve got one eye on the macro (digital transformation playbooks, industry shifts, global resourcing) and the other on the micro (prod alerts, team morale, who's actually on-call). I don’t flinch at complexity — I architect around it, coach through it, and occasionally blow it up when it no longer serves.
 And while others sugarcoat problems, I bring a clean scalpel and a roadmap.
