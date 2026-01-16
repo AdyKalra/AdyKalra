@@ -15,7 +15,6 @@ Strong Advocate for 📜 engineering practices, :cloud: Cloud computing, 🚀 De
 - ⚡ With experience leading technology teams, to learn and unlearn the modern product engineering and innovation practices, I conciously am at the forefront of technology trends and new ways of building a fault-tolerant technical organisation. 
 - ⚙️ I’m currently leading the tech teams, working closely with cloud platform engineers, solution architects, product owners, delivery leads cultivating a dev-sec-ops mindset to ensure that the engineering strategy aligns with the overall business vision.
 - :bulb: I'm interested in all things technology follow my posts [here on LinkedIn](https://www.linkedin.com/in/adykalra/detail/recent-activity/shares/)
-- 
 - 💬 Talk to me about Formula 1 :racing_car:, Footy 🏉 , Gardening 🌻 🌼 , Painting 🎨 , Comics 📚 and anything that interests you.
 
 Connect with me: 🔗 [LinkedIn](https://www.linkedin.com/in/adykalra/)
